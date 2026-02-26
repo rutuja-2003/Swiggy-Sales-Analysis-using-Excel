@@ -64,6 +64,7 @@ Provided insights for operational efficiency, revenue planning, and marketing ca
 💡 Enabled data-driven decisions for customer engagement and business strategy.
 
 🚀 Outcome / Impact
+<img width="700" height="781" alt="image" src="https://github.com/user-attachments/assets/8a94fcbf-ad6f-4842-828d-3846aee90d08" />
 
 Built dynamic Excel dashboards for monitoring orders, revenue, and performance metrics.
 
